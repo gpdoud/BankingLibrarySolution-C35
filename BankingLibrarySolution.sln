@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32126.317
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankingLibraryProject", "BankingLibraryProject\BankingLibraryProject.csproj", "{DE40A4FC-2D7B-45C0-907F-B313D36C27DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankingLibraryProject", "BankingLibraryProject\BankingLibraryProject.csproj", "{DE40A4FC-2D7B-45C0-907F-B313D36C27DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBankingLibrary", "TestBankingLibrary\TestBankingLibrary.csproj", "{E67B4DB8-B561-4826-ADB2-29AFA40250B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBankingLibrary", "TestBankingLibrary\TestBankingLibrary.csproj", "{E67B4DB8-B561-4826-ADB2-29AFA40250B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountFormatLibrary", "AccountFormatLibrary\AccountFormatLibrary.csproj", "{EB8C46D8-C3FA-4BA2-BFFF-2A87DFEF5EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountFormatLibrary", "AccountFormatLibrary\AccountFormatLibrary.csproj", "{EB8C46D8-C3FA-4BA2-BFFF-2A87DFEF5EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInterestCalculation", "TestInterestCalculation\TestInterestCalculation.csproj", "{C69F8F1E-8DC0-4EF2-8F17-684532072372}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{F76DC112-0D22-42A1-8828-AC86E2A2F03D}"
 EndProject
@@ -29,10 +31,17 @@ Global
 		{EB8C46D8-C3FA-4BA2-BFFF-2A87DFEF5EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB8C46D8-C3FA-4BA2-BFFF-2A87DFEF5EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB8C46D8-C3FA-4BA2-BFFF-2A87DFEF5EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{F76DC112-0D22-42A1-8828-AC86E2A2F03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F76DC112-0D22-42A1-8828-AC86E2A2F03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F76DC112-0D22-42A1-8828-AC86E2A2F03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F76DC112-0D22-42A1-8828-AC86E2A2F03D}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{C69F8F1E-8DC0-4EF2-8F17-684532072372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69F8F1E-8DC0-4EF2-8F17-684532072372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69F8F1E-8DC0-4EF2-8F17-684532072372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69F8F1E-8DC0-4EF2-8F17-684532072372}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 952232daa530ebaba1c40810eda3653b9ac18f78
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
