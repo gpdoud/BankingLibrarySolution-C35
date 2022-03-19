@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBankingLibrary", "TestB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountFormatLibrary", "AccountFormatLibrary\AccountFormatLibrary.csproj", "{EB8C46D8-C3FA-4BA2-BFFF-2A87DFEF5EFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{F76DC112-0D22-42A1-8828-AC86E2A2F03D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EB8C46D8-C3FA-4BA2-BFFF-2A87DFEF5EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB8C46D8-C3FA-4BA2-BFFF-2A87DFEF5EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB8C46D8-C3FA-4BA2-BFFF-2A87DFEF5EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76DC112-0D22-42A1-8828-AC86E2A2F03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76DC112-0D22-42A1-8828-AC86E2A2F03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76DC112-0D22-42A1-8828-AC86E2A2F03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76DC112-0D22-42A1-8828-AC86E2A2F03D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
